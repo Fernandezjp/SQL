@@ -32,8 +32,6 @@ Select *
 from superstore;
 
 
-
-
 -- Get the max price from the superstore, answer should be 549.00 Smart LED TV
 Select max(price), item_name
 from superstore
